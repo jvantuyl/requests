@@ -140,3 +140,4 @@ Patches and Suggestions
 - Matt Spitz @mattspitz
 - Vikram Oberoi @voberoi
 - Can Ibanoglu <can.ibanoglu@gmail.com> @canibanoglu
+- Jayson Vantuyl <jayson@aggressive.ly> @kagato
